@@ -94,7 +94,7 @@ export default function Services() {
                 activeTab === index ? "border-primary-500" : "border-transparent"
               }`}
             >
-              <div className="w-14 h-14 bg-gradient-to-br from-primary-100 to-accent-100 rounded-xl flex items-center justify-center text-primary-600 mb-6">
+              <div className="w-16 h-16 bg-gradient-to-br from-primary-100 to-accent-100 rounded-xl flex items-center justify-center text-primary-600 mb-6 border-2 border-white">
                 {service.icon}
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-3">{service.title}</h3>

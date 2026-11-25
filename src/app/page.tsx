@@ -8,8 +8,15 @@ import Footer from "../components/Footer";
 
 export default function Home() {
   return (
-    <main>
+    <main className="min-h-screen bg-white">
+      {/* Hero section with proper bottom spacing */}
+      <div className="pb-0"></div>
+
       <Navbar />
+
+      {/* Add separator between nav and hero */}
+      <div className="h-px bg-gradient-to-r from-transparent via-primary-300/50 to-transparent my-4" />
+
       <Hero />
       <Services />
       <About />
