@@ -25,9 +25,7 @@ export default function CtaSection() {
                   </div>
                   <div className="flex-1">
                     <p className="font-semibold text-gray-900">Email Us</p>
-                    <a href="mailto:person@email.com" className="text-blue-600 hover:underline">
-                      person@email.com
-                    </a>
+                    <span className="text-blue-600 hover:underline cursor-pointer">person@email.com</span>
                   </div>
                 </a>
 
@@ -39,9 +37,7 @@ export default function CtaSection() {
                   </div>
                   <div className="flex-1">
                     <p className="font-semibold text-gray-900">Call Us</p>
-                    <a href="tel:+15555555555" className="text-green-600 hover:underline">
-                      555-555-5555
-                    </a>
+                    <span className="text-green-600 hover:underline cursor-pointer">555-555-5555</span>
                   </div>
                 </a>
 
