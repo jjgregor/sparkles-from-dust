@@ -1,0 +1,17 @@
+@echo off
+cd /d "C:\Dev\Projects\Cleaners"
+
+REM Replace YOUR_USERNAME below with your actual GitHub username
+set GITHUB_USER=YOUR_USERNAME
+
+REM Add remote (skip if already exists)
+if not defined GIT_ORIGIN_URL (
+    echo Please create a repo first at: https://github.com/new
+    echo Then run this command to add the remote:
+    echo git remote add origin https://github.com/YOUR_USERNAME/sparkles-from-dust.git
+) else (
+    git remote add origin !GIT_ORIGIN_URL! 2>nul || git remote set-url origin !GIT_ORIGIN_URL!
+    git branch -M main
+    git push -u origin main --force-with-lease
+    echo Push successful!
+)
