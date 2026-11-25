@@ -1,0 +1,143 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261125122451
+Username: SIREN-HEAD\JEENY
+RunAs User: SIREN-HEAD\JEENY
+Configuration Name: 
+Machine: SIREN-HEAD (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command $__claudeCodeScript = $env:CLAUDE_CODE_SHELL_LAUNCHER_SCRIPT; $env:CLAUDE_CODE_SHELL_LAUNCHER_SCRIPT = $null; Invoke-Expression -Command $__claudeCodeScript
+Process ID: 14264
+PSVersion: 5.1.26100.9818
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9818
+BuildVersion: 10.0.26100.9818
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Dev\Projects\Cleaners\install-node.log
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does 
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (Found Node.js [...Version 26.12.1:PSObject) [Start-Transcript], 
+ParameterBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (Found Node.js [...Version 26.12.1:PSObject) [Start-Transcript], Parame
+   terBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does 
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (This applicatio...u by its owner.:PSObject) [Start-Transcript], 
+ParameterBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (This applicatio...u by its owner.:PSObject) [Start-Transcript], Parame
+   terBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does 
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (Microsoft is no...party packages.:PSObject) [Start-Transcript], 
+ParameterBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (Microsoft is no...party packages.:PSObject) [Start-Transcript], Parame
+   terBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does 
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (An unexpected e...g the command: :PSObject) [Start-Transcript], 
+ParameterBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (An unexpected e...g the command: :PSObject) [Start-Transcript], Parame
+   terBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does 
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (0x80070020 : Th...nother process.:PSObject) [Start-Transcript], 
+ParameterBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+Start-Transcript : The input object cannot be bound to any parameters for the command either because the command does
+not take pipeline input or the input and its properties do not match any of the parameters that take pipeline input.
+At line:1 char:402
++ ... ents 2>&1 | Start-Transcript -Path "C:\Dev\Projects\Cleaners\install- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (0x80070020 : Th...nother process.:PSObject) [Start-Transcript], Parame
+   terBindingException
+    + FullyQualifiedErrorId : InputObjectNotBound,Microsoft.PowerShell.Commands.StartTranscriptCommand
+
+
+Id     Name            PSJobTypeName   State         HasMoreData     Location             Command
+--     ----            -------------   -----         -----------     --------             -------
+1      CheckNode       BackgroundJob   Running       True            localhost             while (-not (Get-Proc...
+PS>TerminatingError(Receive-Job): "Cannot process command because of one or more missing mandatory parameters: Job."
+Receive-Job : Cannot process command because of one or more missing mandatory parameters: Job.
+At line:1 char:878
++ ... eckNode"; $job = Get-Job -Name "CheckNode"; Receive-Job -Keep; Remove ...
++                                                 ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Receive-Job], ParameterBindingException
+    + FullyQualifiedErrorId : MissingMandatoryParameter,Microsoft.PowerShell.Commands.ReceiveJobCommand
+Receive-Job : Cannot process command because of one or more missing mandatory parameters: Job.
+At line:1 char:878
++ ... eckNode"; $job = Get-Job -Name "CheckNode"; Receive-Job -Keep; Remove ...
++                                                 ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Receive-Job], ParameterBindingException
+    + FullyQualifiedErrorId : MissingMandatoryParameter,Microsoft.PowerShell.Commands.ReceiveJobCommand
+
+Remove-Job : The command cannot remove the job with the job ID 1 and the name CheckNode because the job is not 
+finished. To remove the job, first stop the job, or use the Force parameter.
+Parameter name: Name
+At line:1 char:897
++ ... ob -Name "CheckNode"; Receive-Job -Keep; Remove-Job -Name "CheckNode"
++                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Manageme...n.PSRemotingJob:PSRemotingJob) [Remove-Job], 
+ArgumentException
+    + FullyQualifiedErrorId : JobObjectNotFinishedCannotBeRemoved,Microsoft.PowerShell.Commands.RemoveJobCommand
+Remove-Job : The command cannot remove the job with the job ID 1 and the name CheckNode because the job is not
+finished. To remove the job, first stop the job, or use the Force parameter.
+Parameter name: Name
+At line:1 char:897
++ ... ob -Name "CheckNode"; Receive-Job -Keep; Remove-Job -Name "CheckNode"
++                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Manageme...n.PSRemotingJob:PSRemotingJob) [Remove-Job], Argume
+   ntException
+    + FullyQualifiedErrorId : JobObjectNotFinishedCannotBeRemoved,Microsoft.PowerShell.Commands.RemoveJobCommand
+
+
+
